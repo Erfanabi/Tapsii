@@ -27,9 +27,9 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ## Contact
 
-Erfan Sharafi - [09105003119](https://twitter.com/your_username) - erfansharafi60@gmail.com
+Erfan Sharafi - [09105003119] - erfansharafi60@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Erfanabi/Tapsii](https://github.com/Erfanabi/Tapsii)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
