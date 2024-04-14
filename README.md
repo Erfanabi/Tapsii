@@ -6,12 +6,13 @@
 
 
 - [Demo Project](https://tapsii.vercel.app/)
+- [Demo Project](https://tapsiii.liara.run/)
 
 ### Technologies Used
 
-- Html
-- Css
-- Js
+|       `html`       |        <img src="./icons/HTML.svg" width="48">        |
+|       `css`        |        <img src="./icons/CSS.svg" width="48">         |
+|        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
 
 ## Getting Started
 
@@ -19,7 +20,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/erfanabi/rick-and-morty.git
+   git clone https://github.com/Erfanabi/Tapsii.git
    ```
 2. Open index.html
 
